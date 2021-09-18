@@ -1,2 +1,3 @@
 Text2:
 Done is better than perfect.
+Code wins arguments.
