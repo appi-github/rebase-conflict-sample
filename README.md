@@ -22,3 +22,7 @@ git rebase main
 ## LICENCE
 
 CC0
+
+## Pull Request Practice
+
+This is a practice for learning GitHub pull requests.
